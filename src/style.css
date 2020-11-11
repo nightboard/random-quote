@@ -1,0 +1,16 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+
+#quote-box {
+    background: none;
+    border: none;
+    position: absolute;
+    top: 330px;
+    left: 500px;
+    color: white;
+
+    padding: 20px;
+}
